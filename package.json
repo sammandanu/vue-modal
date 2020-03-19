@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://sammandanu.github.io/vue-modal-state",
+  "homepage": "https://sammandanu.github.io/vue-modal/",
   "dependencies": {
     "core-js": "^3.6.4",
     "gh-pages": "^2.2.0",
